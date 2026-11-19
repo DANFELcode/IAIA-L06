@@ -1,0 +1,10 @@
+[project]
+name = "iaia-lab06"
+version = "0.1.0"
+description = "Laboratorio 06: Ontologías"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "owlready2",
+    "jupyter"
+]
